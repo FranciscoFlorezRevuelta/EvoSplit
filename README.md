@@ -25,7 +25,7 @@ I am currently working on a journal publication for EvoSplit. Meanwhile, if you 
 
 Feel free to contact me if you have any question:
 
-[Francisco Florez-Revuelta]https://www.dtic.ua.es/~florez (francisco.florez [at] ua.es)  
+[Francisco Florez-Revuelta](https://www.dtic.ua.es/~florez) (francisco.florez [at] ua.es)  
 Department of Computing Technology  
 University of Alicante  
 Spain
