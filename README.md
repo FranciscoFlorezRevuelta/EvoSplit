@@ -5,7 +5,7 @@
 ## New train/validation/test splits of well-known multi-label datasets
 
 * Microsoft COCO - Panoptic Segmentation Task: [New splits](https://drive.google.com/drive/folders/1MzD2JbFWKe0jHSQJtMYxDf-kUgURrr3r?usp=sharing). The original data set can be downloaded from the [Microsoft COCO dataset website](https://cocodataset.org/#download).
-* Tencent ML-Images: I offer [new splits]() for both the ImageNet and OpenImages subsets. The original dataset can be downloaded from the [Tencent ML-Images repository](https://github.com/Tencent/tencent-ml-images).
+* Tencent ML-Images: I offer [new splits](https://drive.google.com/drive/folders/1GsEbwfQmVEIKKF06QiFWggCnm9Elef3i?usp=sharing) for both the ImageNet and OpenImages subsets. The original dataset can be downloaded from the [Tencent ML-Images repository](https://github.com/Tencent/tencent-ml-images).
 <!---
 ## Citation
 
