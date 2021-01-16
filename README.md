@@ -6,7 +6,7 @@
 
 I will make available the code soon here.
 
-## New train/validation splits of datasets available with [scikit-multilearn](http://scikit.ml/)
+## New train/test splits of datasets available with [scikit-multilearn](http://scikit.ml/)
 
 The new splits are available [here](https://drive.google.com/drive/folders/161X_IV4AamqK2nrHGcCvkvRc6dLlpfk8?usp=sharing). They can be uploaded using [skmultilearn.dataset.load_dataset_dump()](http://scikit.ml/api/skmultilearn.dataset.html). Similarly to [skmultilearn](http://scikit.ml/datasets.html), train, test, and undivided variants are provided. 
 
