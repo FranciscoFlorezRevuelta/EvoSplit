@@ -2,6 +2,10 @@
 
 **EvoSplit** presents a new approach for the distribution of multi-label data sets into disjoint subsets for supervised machine learning. Currently, data set providers either divide a data set randomly or using iterative stratification [[1]](#1) [[2]](#2), a method that tries to maintain the labels (or label pairs) distribution of the original data set into the different subsets. Following this objective, EvoSplit offers two evolutionary approaches: First, a single-objective evolutionary algorith that aims at obtaining a split that maximises the similarity between those distributions independently. Second, a new multi-objective evolutionary algorithm to maximise the similarity considering simultaneously both distributions (labels and label pairs). **EvoSplit** improves the splitting of a data set in comparison to the iterative stratification.
 
+## New train/validation splits of datasets available with [scikit-multilearn](http://scikit.ml/)
+
+The new splits are available [here](https://drive.google.com/drive/folders/161X_IV4AamqK2nrHGcCvkvRc6dLlpfk8?usp=sharing). They can be uploaded using [skmultilearn.dataset.load_dataset_dump()](http://scikit.ml/api/skmultilearn.dataset.html). Similarly to [skmultilearn](http://scikit.ml/datasets.html), train, test, and undivided variants are provided. 
+
 ## New train/validation/test splits of well-known multi-label datasets
 
 * Microsoft COCO - Panoptic Segmentation Task: [New splits](https://drive.google.com/drive/folders/1MzD2JbFWKe0jHSQJtMYxDf-kUgURrr3r?usp=sharing). The original data set can be downloaded from the [Microsoft COCO dataset website](https://cocodataset.org/#download).
