@@ -14,21 +14,22 @@ The new splits are available [here](https://drive.google.com/drive/folders/161X_
 
 * Microsoft COCO - Panoptic Segmentation Task: [New splits](https://drive.google.com/drive/folders/1MzD2JbFWKe0jHSQJtMYxDf-kUgURrr3r?usp=sharing). The original data set can be downloaded from the [Microsoft COCO dataset website](https://cocodataset.org/#download).
 * Tencent ML-Images: I offer [new splits](https://drive.google.com/drive/folders/1GsEbwfQmVEIKKF06QiFWggCnm9Elef3i?usp=sharing) for both the ImageNet and OpenImages subsets. The original dataset can be downloaded from the [Tencent ML-Images repository](https://github.com/Tencent/tencent-ml-images).
-<!---
-## Citation
 
-I am currently working on a journal publication for EvoSplit. Meanwhile, if you use the new train/validation splits, please cite:
+Citation
+
+I am currently working on a journal publication for EvoSplit. Meanwhile, you can access [this preprint](https://arxiv.org/abs/2102.06154). If you use the new train/validation splits, please cite:
 
 ```
-@article{EvoSplit2021,
-  title={Tencent ML-Images: A Large-Scale Multi-Label Image Database for Visual Representation Learning},
-  author={Wu, Baoyuan and Chen, Weidong and Fan, Yanbo and Zhang, Yong and Hou, Jinlong and Liu, Jie and Zhang, Tong},
-  journal={IEEE Access},
-  volume={7},
-  year={2019}
+@misc{florezrevuelta2021evosplit,
+      title={EvoSplit: An evolutionary approach to split a multi-label data set into disjoint subset}, 
+      author={Francisco Florez-Revuelta},
+      year={2021},
+      eprint={2102.06154},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
--->
+
 ## Contact
 
 Feel free to contact me if you have any question:
