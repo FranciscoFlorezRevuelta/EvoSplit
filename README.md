@@ -15,9 +15,9 @@ The new splits are available [here](https://drive.google.com/drive/folders/161X_
 * Microsoft COCO - Panoptic Segmentation Task: [New splits](https://drive.google.com/drive/folders/1MzD2JbFWKe0jHSQJtMYxDf-kUgURrr3r?usp=sharing). The original data set can be downloaded from the [Microsoft COCO dataset website](https://cocodataset.org/#download).
 * Tencent ML-Images: I offer [new splits](https://drive.google.com/drive/folders/1GsEbwfQmVEIKKF06QiFWggCnm9Elef3i?usp=sharing) for both the ImageNet and OpenImages subsets. The original dataset can be downloaded from the [Tencent ML-Images repository](https://github.com/Tencent/tencent-ml-images).
 
-Citation
+## Citation
 
-If you use the new train/validation splits, please cite:
+If you use the new train/validation splits, please cite [this paper](https://www.mdpi.com/2076-3417/11/6/2823):
 
 ```
 @Article{evoSplit,
