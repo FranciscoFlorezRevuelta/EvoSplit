@@ -17,17 +17,22 @@ The new splits are available [here](https://drive.google.com/drive/folders/161X_
 
 Citation
 
-I am currently working on a journal publication for EvoSplit. Meanwhile, you can access [this preprint](https://arxiv.org/abs/2102.06154). If you use the new train/validation splits, please cite:
+If you use the new train/validation splits, please cite:
 
 ```
-@misc{florezrevuelta2021evosplit,
-      title={EvoSplit: An evolutionary approach to split a multi-label data set into disjoint subset}, 
-      author={Francisco Florez-Revuelta},
-      year={2021},
-      eprint={2102.06154},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@Article{evoSplit,
+AUTHOR = {Florez-Revuelta, Francisco},
+TITLE = {EvoSplit: An Evolutionary Approach to Split a Multi-Label Data Set into Disjoint Subsets},
+JOURNAL = {Applied Sciences},
+VOLUME = {11},
+YEAR = {2021},
+NUMBER = {6},
+ARTICLE-NUMBER = {2823},
+URL = {https://www.mdpi.com/2076-3417/11/6/2823},
+ISSN = {2076-3417},
+DOI = {10.3390/app11062823}
 }
+
 ```
 
 ## Contact
